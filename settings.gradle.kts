@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Comix"
+rootProject.name = "ComixReader"
 include(":app")
